@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am an aspiring Web developer, currently studying in Punjab Engineering College(Chandigarh, India)
 🌱 I’m currently learning Next.js<br><br>
 
 
